@@ -47,3 +47,5 @@
 6. Нет ошибок ESLint.
 
 
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/pceavt3moprb5wea/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-redux-toolkit/branch/main)
